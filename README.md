@@ -12,7 +12,7 @@ This application functions off an html and javascript file.
 
 Here are screenshots of the finished product as well as a link to the website.
 
-Link: 
+Link: https://dkallen117.github.io/password-Generator/
 
 ## Credits
 
