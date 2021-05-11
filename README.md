@@ -2,7 +2,7 @@
 
 ## Description
 
-For this assignment, I was tasked with implementing a 
+For this assignment, I was tasked with implementing a random password generator function into an already-built web page. This assignment allowed me to better understand how Javascript interacts with webpages, especially on the mathematic end of things. I was able to successfully meet all of the acceptance criteria with the various prompts and the actual generation of the random password.
 
 ## Installation
 
@@ -10,7 +10,10 @@ This application functions off an html and javascript file.
 
 ## Usage
 
-Here are screenshots of the finished product as well as a link to the website.
+Here are screenshots of the finished application as well as a link to the website.
+
+![](Assets/Screenshot.png)
+![](Assets/Screenshot1.png)
 
 Link: https://dkallen117.github.io/password-Generator/
 
