@@ -47,7 +47,7 @@ const nums = confirm ("Will you include numbers in your password?");
 
 const specialCase = confirm ("Will you include special characters in your password?");
 
-//
+// Array for selecting random characters according to their categories
 
 const charArray = {
   randomNums: function() {
@@ -71,6 +71,9 @@ const charArray = {
   }
 
 };
+
+// Checks to see what the user selected, adds it the base count for all characters
+// And adds the randomly selected categories of characters that the user selected
 
 if (nums === true) {
   minNums = charArray.randomNums();
@@ -96,10 +99,10 @@ if (specialCase === true) {
 
 }
 
-// empty variable for the randomly generated password to  be put into
+// empty variable for the randomly generated password to be put into
 var randomPassword = " ";
 
-// loop getting random characters
+// loop genereating random characters
 for (let i = 0; i < (parseInt(pLength) - minCount); i++) {
   const randomNumPicked = Math.floor(Math.random() * 4);
 
