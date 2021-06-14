@@ -17,10 +17,6 @@ Here are screenshots of the finished application as well as a link to the websit
 
 Link: https://dkallen117.github.io/password-Generator/
 
-## Credits
-
-No credits for this project/assignment.
-
 ## License
 
 GNU GENERAL PUBLIC LICENSE
