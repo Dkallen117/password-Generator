@@ -1,3 +1,4 @@
+// Credit for base code: https://stackoverflow.com/questions/59904757/random-password-generator-javascript-not-returning-password
 // Assignment Code
 var generateBtn = document.querySelector("#generate");
 
